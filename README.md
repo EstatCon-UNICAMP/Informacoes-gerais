@@ -4,7 +4,7 @@
 
 ## IMECC - UNICAMP
 
-Repositório privados para os grupos de consultoria desenvolverem os projetos.
+Repositórios privados para os grupos de consultoria desenvolverem os projetos.
 
 Consultoria desenvolvida pelos alunos do bacharelado em Estatística, sob supervisão dos docentes.
 
